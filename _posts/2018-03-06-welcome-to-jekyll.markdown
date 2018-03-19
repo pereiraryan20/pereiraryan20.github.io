@@ -15,11 +15,11 @@ Website redesign comming soon:
 Web Development Learning in progress
 {% endhighlight %}
 
-Check out my current devloped website : [www.logicboxes.com][work-inprogress]. 
+Check out my current devloped website : [accreditation.com][work-inprogress]. 
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 [ryan-blog]: https://pereiraryan.wordpress.com/
 [ryan-github]: https://github.com/pereiraryan
-[work-inprogress]: https://www.logicboxes.com/
+[work-inprogress]: https://accreditation.com/
