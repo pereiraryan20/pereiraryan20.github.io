@@ -24,9 +24,9 @@ project_two_url: https://github.com/pereiraryan/domains
 project_two_icon: photo_camera
 
 
-project_three: Helping Hand
-project_three_description: A Hackathon project for developer circle.
-project_three_url: https://github.com/pereiraryan/helping-hand
+project_three: myConsole
+project_three_description: A JavaScript editor for you phone, in JavaScript.
+project_three_url: http://pereiraryan.ooo/myConsole/
 project_three_icon: hotel
 
 
