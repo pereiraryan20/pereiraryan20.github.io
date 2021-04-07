@@ -16,24 +16,24 @@ portfolio_type: cards #cards or carousel
 project_one: Wireless Intrusion Prevention System
 project_one_description: The primary purpose of the project is to prevent unauthorized network access to local area networks and other information assets by wireless devices. Scapy , a network packet manipulation library in Python is used to craft a Deauth packet; Tkinter for GUI design; Sqlite3 for database.
 project_one_url: https://github.com/pereiraryan/WIPS
-project_one_icon: location_on # these are from materiailize css, the full collection is here: http://materializecss.com/icons.html
+project_one_icon: ./location_on # these are from materiailize css, the full collection is here: http://materializecss.com/icons.html
 
 project_two: My First Node Application
 project_two_description: A node.js application build using mean stack.
 project_two_url: https://github.com/pereiraryan/domains
-project_two_icon: photo_camera
+project_two_icon: ./photo_camera
 
 
 project_three: myConsole
 project_three_description: A JavaScript editor for you phone, in JavaScript.
 project_three_url: https://pereiraryan.github.io/myConsole/
-project_three_icon: hotel
+project_three_icon: ./hotel
 
 
 project_four: My Personal Blog
 project_four_description: This blog is created with an intention to share my thoughts and experiences on new products and other entertainments.hope to have a awesome time.
 project_four_url: https://pereiraryan.wordpress.com
-project_four_icon: restaurant
+project_four_icon: ./restaurant
 
 project_five: Professional websites
 project_five_description: This blog is created with an intention to share my thoughts and experiences on new products and other entertainments.hope to have a awesome time.
