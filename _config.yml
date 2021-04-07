@@ -1,12 +1,12 @@
 title: Ryan Pereira
 name: Ryan Pereira
 email: pereiraryan.rp@gmail.com
-description: Software Engineer , graduated with a bachelor’s degree in Computer Engineering in 2016 from University of Mumbai . I am having around 2 year of professional experience in IT industry. My career objective is to obtain a meaningful and challenging position that enables me to learn new technologies and enables growth.
+description: Software Engineer , graduated with a bachelor’s degree in Computer Engineering in 2016 from University of Mumbai . I am having around 5 year of professional experience in IT industry. My career objective is to obtain a meaningful and challenging position that enables me to learn new technologies and enables growth.
 
 remote_theme: jameshamann/jekyll-material-theme
 
-parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
-parallax_image_two: assets/images/startup3.jpg
+parallax_image_one: pereiray-ryan.github.io/assets/images/startup3.jpg # These are the images used for the parallax background
+parallax_image_two: pereiray-ryan.github.io/assets/images/startup3.jpg
 
 # Settings for the porfolio section
 
