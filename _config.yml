@@ -5,8 +5,8 @@ description: Software Engineer , graduated with a bachelor’s degree in Compute
 
 remote_theme: jameshamann/jekyll-material-theme
 
-parallax_image_one: pereiray-ryan.github.io/assets/images/startup3.jpg # These are the images used for the parallax background
-parallax_image_two: pereiray-ryan.github.io/assets/images/startup3.jpg
+parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
+parallax_image_two: assets/images/startup3.jpg
 
 # Settings for the porfolio section
 
